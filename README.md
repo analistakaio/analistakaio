@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kaio Rodrigues Silva
+# 👨🏾‍💻 Kaio Rodrigues Silva
 
 **`Desenvolvedor FullStack`**
 
